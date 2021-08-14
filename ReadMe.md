@@ -14,13 +14,14 @@ Skills in numerical analysis is crucial for an undergraduate student in physics.
 
 ## 3 Root-Finding
 * One-Dimensional Root-Finding Algorithms
-* Zeros of polynomials
+* Zeros of Polynomials
 * System of Equations
 * 3D Minimization
 
 ## 4 Numerical Integration
-* Newton-Raphson Methods
+* Newton-Cotes Methods
 * Integration with infinite range
+* Higher-dimensional Integrals
 * Monte-Carlo Integration
 
 ## 5 Fourier Analysis
