@@ -1,10 +1,9 @@
 # Numerical Analysis From Scratch Using Python
 
-<p align="center">
-	<video width="600" controls>
-	  <source src="./7 Differential Equations/images and animations/Lorentz Attractor.mp4">
-	</video>
-</p>
+
+<video width="600" controls>
+  <source src="./7 Differential Equations/images and animations/Lorentz Attractor.mp4">
+</video>
 
 [comment]: <> (<p align="center"><img src="./7 Differential Equations/images and animations/LorenzAttractor.png" width="600" align="center"></p>)
 
