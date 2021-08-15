@@ -1,6 +1,5 @@
 # Numerical Analysis From Scratch Using Python
 
-
 ![](./7 Differential Equations/images and animations/Lorentz Attractor.mp4)
 
 [comment]: <> (<p align="center"><img src="./7 Differential Equations/images and animations/LorenzAttractor.png" width="600" align="center"></p>)
